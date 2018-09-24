@@ -1,0 +1,3 @@
+[submodule "Stuff"]
+	path = Stuff
+	url = https://github.com/PenguinAgen/Stuff
