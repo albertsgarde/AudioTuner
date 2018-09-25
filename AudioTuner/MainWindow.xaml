@@ -7,6 +7,8 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <TextBlock x:Name="Frequency" HorizontalAlignment="Left" Margin="183,144,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="73" Width="224" FontSize="48"/>
+        <TextBlock HorizontalAlignment="Left" Margin="233,236,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
+
     </Grid>
 </Window>
